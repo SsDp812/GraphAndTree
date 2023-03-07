@@ -1,0 +1,16 @@
+C:\Users\homepc\Desktop\Tree_21_3_10\Tree_21_3_10\bin\Debug\net5.0\Tree_21_3_10.exe
+C:\Users\homepc\Desktop\Tree_21_3_10\Tree_21_3_10\bin\Debug\net5.0\Tree_21_3_10.deps.json
+C:\Users\homepc\Desktop\Tree_21_3_10\Tree_21_3_10\bin\Debug\net5.0\Tree_21_3_10.runtimeconfig.json
+C:\Users\homepc\Desktop\Tree_21_3_10\Tree_21_3_10\bin\Debug\net5.0\Tree_21_3_10.runtimeconfig.dev.json
+C:\Users\homepc\Desktop\Tree_21_3_10\Tree_21_3_10\bin\Debug\net5.0\Tree_21_3_10.dll
+C:\Users\homepc\Desktop\Tree_21_3_10\Tree_21_3_10\bin\Debug\net5.0\ref\Tree_21_3_10.dll
+C:\Users\homepc\Desktop\Tree_21_3_10\Tree_21_3_10\bin\Debug\net5.0\Tree_21_3_10.pdb
+C:\Users\homepc\Desktop\Tree_21_3_10\Tree_21_3_10\obj\Debug\net5.0\Tree_21_3_10.csproj.AssemblyReference.cache
+C:\Users\homepc\Desktop\Tree_21_3_10\Tree_21_3_10\obj\Debug\net5.0\Tree_21_3_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\homepc\Desktop\Tree_21_3_10\Tree_21_3_10\obj\Debug\net5.0\Tree_21_3_10.AssemblyInfoInputs.cache
+C:\Users\homepc\Desktop\Tree_21_3_10\Tree_21_3_10\obj\Debug\net5.0\Tree_21_3_10.AssemblyInfo.cs
+C:\Users\homepc\Desktop\Tree_21_3_10\Tree_21_3_10\obj\Debug\net5.0\Tree_21_3_10.csproj.CoreCompileInputs.cache
+C:\Users\homepc\Desktop\Tree_21_3_10\Tree_21_3_10\obj\Debug\net5.0\Tree_21_3_10.dll
+C:\Users\homepc\Desktop\Tree_21_3_10\Tree_21_3_10\obj\Debug\net5.0\ref\Tree_21_3_10.dll
+C:\Users\homepc\Desktop\Tree_21_3_10\Tree_21_3_10\obj\Debug\net5.0\Tree_21_3_10.pdb
+C:\Users\homepc\Desktop\Tree_21_3_10\Tree_21_3_10\obj\Debug\net5.0\Tree_21_3_10.genruntimeconfig.cache

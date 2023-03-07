@@ -1,0 +1,16 @@
+C:\Users\homepc\Desktop\Graph_22_3_20\Graph_22_3_20\bin\Debug\net5.0\Graph_22_3_20.exe
+C:\Users\homepc\Desktop\Graph_22_3_20\Graph_22_3_20\bin\Debug\net5.0\Graph_22_3_20.deps.json
+C:\Users\homepc\Desktop\Graph_22_3_20\Graph_22_3_20\bin\Debug\net5.0\Graph_22_3_20.runtimeconfig.json
+C:\Users\homepc\Desktop\Graph_22_3_20\Graph_22_3_20\bin\Debug\net5.0\Graph_22_3_20.runtimeconfig.dev.json
+C:\Users\homepc\Desktop\Graph_22_3_20\Graph_22_3_20\bin\Debug\net5.0\Graph_22_3_20.dll
+C:\Users\homepc\Desktop\Graph_22_3_20\Graph_22_3_20\bin\Debug\net5.0\ref\Graph_22_3_20.dll
+C:\Users\homepc\Desktop\Graph_22_3_20\Graph_22_3_20\bin\Debug\net5.0\Graph_22_3_20.pdb
+C:\Users\homepc\Desktop\Graph_22_3_20\Graph_22_3_20\obj\Debug\net5.0\Graph_22_3_20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\homepc\Desktop\Graph_22_3_20\Graph_22_3_20\obj\Debug\net5.0\Graph_22_3_20.AssemblyInfoInputs.cache
+C:\Users\homepc\Desktop\Graph_22_3_20\Graph_22_3_20\obj\Debug\net5.0\Graph_22_3_20.AssemblyInfo.cs
+C:\Users\homepc\Desktop\Graph_22_3_20\Graph_22_3_20\obj\Debug\net5.0\Graph_22_3_20.csproj.CoreCompileInputs.cache
+C:\Users\homepc\Desktop\Graph_22_3_20\Graph_22_3_20\obj\Debug\net5.0\Graph_22_3_20.dll
+C:\Users\homepc\Desktop\Graph_22_3_20\Graph_22_3_20\obj\Debug\net5.0\ref\Graph_22_3_20.dll
+C:\Users\homepc\Desktop\Graph_22_3_20\Graph_22_3_20\obj\Debug\net5.0\Graph_22_3_20.pdb
+C:\Users\homepc\Desktop\Graph_22_3_20\Graph_22_3_20\obj\Debug\net5.0\Graph_22_3_20.genruntimeconfig.cache
+C:\Users\homepc\Desktop\Graph_22_3_20\Graph_22_3_20\obj\Debug\net5.0\Graph_22_3_20.csproj.AssemblyReference.cache

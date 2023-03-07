@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ph1C0HUNo2yLoQa/EK5i7vq/lYiKz5vKuROe5qYIEc6ciLvy5X6dx45+CkNJ6t2LO/Fq1+jwcWGBpryHZ5EbwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\homepc\\Desktop\\Graph_22_3_20\\Graph_22_3_20\\Graph_22_3_20.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\homepc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
